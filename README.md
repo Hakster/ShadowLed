@@ -1,5 +1,6 @@
 # ShadowLed
 Led RGB Подсветка в зависимости от температуры
+Построен на микросхеме Atmega 328P-PU с bootloader Arduino
 * [Страница проекта на easyeda.com](https://easyeda.com/HAKSTER/Shadow-v1.5)
 ## Описание проекта
 Подключение к блоку питания компьютера 5v и 12v(Используется для RGB ленты)
